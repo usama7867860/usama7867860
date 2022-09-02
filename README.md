@@ -1,4 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<header>
+<img src="https://th.bing.com/th/id/R.d09889bc5b4c43608493abfffdb14738?rik=du3JuF3RYvullQ&pid=ImgRaw&r=0" href="https://www.linkedin.com/in/usamawebdeveloper/" width="100%" />
+</header>
+
 <h1 align="center">Hi 👋, I'm Usama Siddique</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
